@@ -1,1 +1,1 @@
-prom/prometheus:v2.37.8
+stakater/reloader:SNAPSHOT-PR-695-UBI-2260d728
