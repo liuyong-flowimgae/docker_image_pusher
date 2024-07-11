@@ -1,1 +1,1 @@
-amimof/node-cert-exporter:latest
+grafana/grafana:10.0.1
