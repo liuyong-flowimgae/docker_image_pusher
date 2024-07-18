@@ -1,1 +1,1 @@
-docker.io/grafana/promtail:2.9.2
+grafana/loki:2.6.1
