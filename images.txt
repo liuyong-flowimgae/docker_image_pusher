@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/google_containers/kube-webhook-certgen:v20231011-8b53cabe0
+docker.elastic.co/beats/filebeat:7.17.12
