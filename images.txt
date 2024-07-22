@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/google_containers/nginx-ingress-controller:v1.9.5
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-webhook-certgen:v20231011-8b53cabe0
