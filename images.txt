@@ -1,1 +1,1 @@
-bitnami/metrics-server:0.6.4
+keppel.eu-de-1.cloud.sap/ccloud/vrops_exporter
