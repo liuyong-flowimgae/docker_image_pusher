@@ -1,1 +1,1 @@
-registry.k8s.io/autoscaling/vpa-admission-controller:1.0.0
+registry.k8s.io/autoscaling/vpa-recommender:1.0.0
