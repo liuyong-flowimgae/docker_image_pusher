@@ -1,1 +1,1 @@
-keppel.eu-de-1.cloud.sap/ccloud/vrops_exporter
+registry.k8s.io/autoscaling/vpa-admission-controller:1.0.0
