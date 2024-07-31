@@ -1,1 +1,1 @@
-prosoftfactory4accor/powershell:nanoserver_1809
+golang:1.14-alpine
