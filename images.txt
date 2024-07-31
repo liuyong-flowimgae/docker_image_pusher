@@ -1,1 +1,1 @@
-mcr.microsoft.com/powershell/test-deps
+prosoftfactory4accor/powershell:nanoserver_1809
