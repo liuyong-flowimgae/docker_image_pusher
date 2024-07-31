@@ -1,1 +1,1 @@
-registry.cn-hangzhou.aliyuncs.com/hb-chen/tektoncd-dashboard:v0.30.0
+mcr.microsoft.com/powershell/test-deps
