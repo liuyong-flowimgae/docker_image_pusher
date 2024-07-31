@@ -1,1 +1,12 @@
-registry.k8s.io/autoscaling/vpa-updater:1.0.0
+gcriotekton/pipeline-controller:v0.42.0
+gcriotekton/pipeline-kubeconfigwriter:v0.42.0
+gcriotekton/pipeline-git-init:v0.42.0
+gcriotekton/pipeline-entrypoint:v0.42.0
+gcriotekton/pipeline-nop:v0.42.0
+gcriotekton/pipeline-imagedigestexporter:v0.42.0
+gcriotekton/pipeline-pullrequest-init:v0.42.0
+gcr.io/google.com/cloudsdktool/cloud-sdk@sha256:27b2c22bf259d9bc1a291e99c63791ba0c27a04d2db0a43241ba0f1f20f4067f
+cgr.dev/chainguard/busybox@sha256:19f02276bf8dbdd62f069b922f10c65262cc34b710eea26ff928129a736be791
+mcr.microsoft.com/powershell:nanoserver@sha256:b6d5ff841b78bdf2dfed7550000fd4f3437385b8fa686ec0f010be24777654d6
+gcriotekton/pipeline-resolvers:v0.42.0
+gcriotekton/pipeline-webhook:v0.42.0
