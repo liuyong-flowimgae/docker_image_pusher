@@ -1,1 +1,1 @@
-golang:1.14-alpine
+gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/workingdirinit
