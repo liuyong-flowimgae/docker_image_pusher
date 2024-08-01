@@ -1,1 +1,1 @@
-gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/workingdirinit
+aiotceo/kaniko-executor:v1.6.0
