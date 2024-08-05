@@ -1,1 +1,1 @@
-redis:6.2.8
+sameersbn/postgresql:12-20200524
