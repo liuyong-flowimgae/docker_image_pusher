@@ -1,1 +1,1 @@
-sameersbn/postgresql:12-20200524
+sameersbn/gitlab:16.2.3
