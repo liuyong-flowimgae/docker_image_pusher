@@ -1,1 +1,1 @@
-docker.io/library/centos:7
+rockylinux/rockylinux:9
