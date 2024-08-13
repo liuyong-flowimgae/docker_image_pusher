@@ -1,2 +1,1 @@
-docker.io/calico/kube-controllers:v3.26.4
-docker.io/calico/typha:v3.26.4
+sonatype/nexus3:3.59.0
