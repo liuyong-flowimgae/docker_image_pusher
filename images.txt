@@ -1,1 +1,1 @@
-sonatype/nexus3:3.59.0
+openjdk:8-jre-alpine
