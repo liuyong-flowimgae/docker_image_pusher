@@ -1,1 +1,1 @@
-rabbitmq:3.6.15
+ubuntu:14.04
