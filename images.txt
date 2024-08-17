@@ -1,1 +1,1 @@
-devopscube/kubernetes-job-demo:latest
+rabbitmq:3.6.15
