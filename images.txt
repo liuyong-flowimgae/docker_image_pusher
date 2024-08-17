@@ -1,1 +1,1 @@
-pryorda/vmware_exporter
+devopscube/kubernetes-job-demo:latest
