@@ -1,1 +1,1 @@
-golang:bookworm
+debian:bookworm-slim
