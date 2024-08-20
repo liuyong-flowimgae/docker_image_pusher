@@ -1,1 +1,1 @@
-debian:bookworm-slim
+docker.io/alpine:latest
