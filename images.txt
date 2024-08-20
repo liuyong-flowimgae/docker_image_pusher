@@ -1,1 +1,1 @@
-docker.io/alpine:latest
+python
