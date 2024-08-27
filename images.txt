@@ -1,1 +1,1 @@
-elasticsearch:7.17.8
+apache/skywalking-oap-server:9.5.0
