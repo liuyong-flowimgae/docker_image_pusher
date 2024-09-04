@@ -1,1 +1,1 @@
-apache/skywalking-ui:9.5.0
+quay.io/prometheus/busybox-amd64-linux:latest
