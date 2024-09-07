@@ -1,1 +1,1 @@
-ricardbejarano/snmp_exporter
+fortio/fortio:latest_release
