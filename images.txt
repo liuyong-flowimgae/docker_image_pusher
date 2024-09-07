@@ -1,11 +1,1 @@
-jimmidyson/configmap-reload:v0.8.0
-docker.io/jaegertracing/all-in-one:1.35
-quay.io/kiali/kiali:v1.67
-docker.io/grafana/loki:2.7.3
-grafana/grafana:9.0.1
-jimmidyson/configmap-reload:v0.5.0
-prom/prometheus:v2.24.0
-istioecosystem/vm-discovery:latest
-apache/skywalking-oap-server:9.1.0
-apache/skywalking-ui:9.1.0
-openzipkin/zipkin-slim:2.23.14
+docker.io/istio/examples-bookinfo-ratings-v1:1.17.0
