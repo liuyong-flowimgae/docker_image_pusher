@@ -1,1 +1,1 @@
-kubeguide/tomcat-app:v1
+prom/prometheus:v2.41.0
