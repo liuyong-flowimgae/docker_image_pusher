@@ -1,1 +1,1 @@
-docker.io/istio/examples-bookinfo-ratings-v1:1.17.0
+curlimages/curl:7.65.3
