@@ -1,1 +1,2 @@
-curlimages/curl:7.65.3
+mongo:4
+yapi
