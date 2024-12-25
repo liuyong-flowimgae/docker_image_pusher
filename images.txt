@@ -1,2 +1,1 @@
-mongo:4
-yapi
+vulhub/yapi:1.10.2
