@@ -1,1 +1,1 @@
-vulhub/yapi:1.10.2
+prom/prometheus:latest
