@@ -1,1 +1,1 @@
-prom/prometheus:latest
+redis:latest
