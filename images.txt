@@ -1,1 +1,1 @@
-diouxx/glpi
+mariadb:10.7
