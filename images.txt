@@ -1,1 +1,1 @@
-mariadb:10.7
+redislabs/redisinsight:latest
