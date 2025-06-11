@@ -1,1 +1,1 @@
-redis
+kibana:7.17.12
