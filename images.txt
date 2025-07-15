@@ -1,3 +1,2 @@
-foxiswho/rocketmq:broker
-styletang/rocketmq-console-ng
-foxiswho/rocketmq:server
+wurstmeister/zookeeper
+wurstmeister/kafka
