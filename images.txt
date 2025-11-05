@@ -1,1 +1,1 @@
-pantsel/konga
+pandax/pandax:latest
