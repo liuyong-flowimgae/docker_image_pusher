@@ -1,1 +1,1 @@
-pandax/pandax:latest
+xmadmin/pandax:latest
