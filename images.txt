@@ -1,1 +1,1 @@
-xmadmin/pandax:v1.0.1
+openclaw/openclaw:2026-stable
