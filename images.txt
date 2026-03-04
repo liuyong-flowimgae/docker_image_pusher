@@ -1,1 +1,1 @@
-openclaw/openclaw:2026-stable
+alpine/openclaw:2026.3.2
