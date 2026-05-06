@@ -1,1 +1,1 @@
-vesoft/nebula-explorer:latest
+vesoft/nebula-graph-studio:latest
