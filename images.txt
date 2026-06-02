@@ -1,1 +1,2 @@
-docker.io/library/node:20-alpine
+mongo:6
+elasticsearch:8.11.0
