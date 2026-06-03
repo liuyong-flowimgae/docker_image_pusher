@@ -1,2 +1,3 @@
-mongo:6
-elasticsearch:8.11.0
+docker.io/library/node:20-alpine
+docker.io/library/nginx:alpine
+docker.io/library/golang:alpine
