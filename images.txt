@@ -1,3 +1,5 @@
-docker.io/library/node:20-alpine
-docker.io/library/nginx:alpine
-docker.io/library/golang:alpine
+mysql:8
+redis:6.2
+victoriametrics/victoria-metrics:v1.79.12
+flashcatcloud/nightingale:latest
+flashcatcloud/categraf:latest
