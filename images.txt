@@ -1,2 +1,1 @@
 victoriametrics/vmagent:v1.106.0
-quay.io/brancz/kube-state-metrics:v2.13.0
