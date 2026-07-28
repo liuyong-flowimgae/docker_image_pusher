@@ -1,2 +1,1 @@
-postgres:16.4-alpine
-caddy:2.8-alpine
+node:20.20.2-bookworm-slim
