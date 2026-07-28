@@ -1,1 +1,2 @@
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.19.1
+postgres:16.4-alpine
+caddy:2.8-alpine
