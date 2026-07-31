@@ -1,1 +1,1 @@
-node:20.20.2-bookworm-slim
+victoriametrics/victoria-logs:latest
