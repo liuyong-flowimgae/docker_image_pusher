@@ -1,1 +1,1 @@
-timberio/vector:latest-alpine
+grafana/grafana:latest
