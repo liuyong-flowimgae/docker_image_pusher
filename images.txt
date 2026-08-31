@@ -1,3 +1,4 @@
-infiniflow/infinity:v0.7.0
-oceanbase/oceanbase-ce:4.4.1.0-100000032025101610
-
+valkey/valkey:8
+pgsty/minio:RELEASE.2026-03-25T00-00-00Z
+mysql:8.0.39
+nats:2.14.2
