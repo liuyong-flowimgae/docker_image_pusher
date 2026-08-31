@@ -1,3 +1,12 @@
 infiniflow/text-embeddings-inference:cpu-1.8
 infiniflow/text-embeddings-inference:1.8
 infiniflow/ragflow:v0.26.4
+oceanbase/seekdb:latest
+mysql:8.0.39
+pgsty/minio:RELEASE.2026-03-25T00-00-00Z
+valkey/valkey:8
+nats:2.14.2
+kibana:8.11.3
+elasticsearch:8.11.3
+opensearchproject/opensearch:2.19.1
+infiniflow/sandbox-executor-manager:latest
