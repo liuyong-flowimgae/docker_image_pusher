@@ -1,4 +1,2 @@
-valkey/valkey:8
-pgsty/minio:RELEASE.2026-03-25T00-00-00Z
-mysql:8.0.39
-nats:2.14.2
+node:20-alpine
+nginx:1.27-alpine
