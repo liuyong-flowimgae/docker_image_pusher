@@ -1,1 +1,1 @@
-victoriametrics/vmalert:v1.97.0
+prom/alertmanager:latest
