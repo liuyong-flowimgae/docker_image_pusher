@@ -1,1 +1,2 @@
-pgvector/pgvector:pg16
+prom/alertmanager:latest
+victoriametrics/vmalert:stable
