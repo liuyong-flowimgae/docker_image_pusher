@@ -1,1 +1,1 @@
-prom/alertmanager:latest
+postgres:18-alpine
