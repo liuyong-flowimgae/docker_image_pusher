@@ -1,1 +1,3 @@
-pgvector/pgvector:pg18
+node:22-alpine
+golang:1.26.11-alpine
+alpine:3.23
